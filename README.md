@@ -1,4 +1,4 @@
-# ELEXIR-TESTNET2
+# ELIXIR-TESTNET2
 
 ## Elixir v2 testnet node guide
 
